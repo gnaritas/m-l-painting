@@ -1,0 +1,8 @@
+{
+  "name": "m-l-painting",
+  "version": "1.0.0",
+  "description": "M & L Painting \u2014 interior & exterior house painting, Vancouver WA (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
